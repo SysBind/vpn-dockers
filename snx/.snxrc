@@ -1,0 +1,4 @@
+server [IP]
+username [User]
+reauth yes
+debug 1
